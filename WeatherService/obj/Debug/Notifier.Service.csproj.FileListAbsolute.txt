@@ -33,3 +33,6 @@ C:\Users\MattA\Documents\training_projects\windows_service\Notifier\WeatherServi
 C:\Users\MattA\Documents\training_projects\windows_service\Notifier\WeatherService\bin\Debug\System.Net.Http.Formatting.dll
 C:\Users\MattA\Documents\training_projects\windows_service\Notifier\WeatherService\bin\Debug\Newtonsoft.Json.xml
 C:\Users\MattA\Documents\training_projects\windows_service\Notifier\WeatherService\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\MattA\Documents\training_projects\message-forward-service\WeatherService\bin\Debug\WeatherService.exe.config
+C:\Users\MattA\Documents\training_projects\message-forward-service\WeatherService\obj\Debug\WeatherService.exe
+C:\Users\MattA\Documents\training_projects\message-forward-service\WeatherService\obj\Debug\WeatherService.pdb

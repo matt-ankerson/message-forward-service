@@ -13,7 +13,7 @@ namespace Notifier.Data
         public NotifierDbContext() : base("DefaultConnection")
         {
 #if DEBUG
-            //Database.SetInitializer(new DropCreateNotifierAlways());
+            Database.SetInitializer(new DropCreateNotifierAlways());
 #else
             // No initialization
 #endif
