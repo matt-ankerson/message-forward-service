@@ -1,0 +1,15 @@
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.UI\bin\Release\Notifier.UI.exe.config
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.UI\bin\Release\Notifier.UI.exe
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.UI\bin\Release\Notifier.UI.pdb
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.UI\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.UI\bin\Release\Notifier.Data.dll
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.UI\bin\Release\EntityFramework.dll
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.UI\bin\Release\Notifier.Data.pdb
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.UI\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.UI\bin\Release\EntityFramework.xml
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.UI\obj\Release\Notifier.UI.csprojResolveAssemblyReference.cache
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.UI\obj\Release\Notifier.UI.Form1.resources
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.UI\obj\Release\Notifier.UI.Properties.Resources.resources
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.UI\obj\Release\Notifier.UI.csproj.GenerateResource.Cache
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.UI\obj\Release\Notifier.UI.exe
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.UI\obj\Release\Notifier.UI.pdb

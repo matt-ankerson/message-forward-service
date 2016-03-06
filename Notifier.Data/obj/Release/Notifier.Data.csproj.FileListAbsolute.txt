@@ -1,0 +1,9 @@
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.Data\bin\Release\Notifier.Data.dll.config
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.Data\bin\Release\Notifier.Data.dll
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.Data\bin\Release\Notifier.Data.pdb
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.Data\bin\Release\EntityFramework.dll
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.Data\bin\Release\EntityFramework.xml
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.Data\obj\Release\Notifier.Data.dll
+C:\Users\MattA\Documents\training_projects\windows_service\Notifier\Notifier.Data\obj\Release\Notifier.Data.pdb
